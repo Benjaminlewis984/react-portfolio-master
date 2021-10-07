@@ -1,21 +1,20 @@
 {
   "main": {
     "name": "Benjamin Lewis",
-    "occupation": "Senior CS student at San Francisco State University",
-    "description": "Aspiring Software Engineer.",
+    "occupation": "Software Engineer at SERES EV",
+    "description": "Bachelor's of Science Degree in Computer Science from San Francisco State University",
     "image": "ben_avatar.png",
-    "bio": "My name is Benjamin, currently finishing my Bachelor's of Science in Computer Science at SFSU. ",
+    "bio": "My name is Benjamin, currently working at SERES EV to help create intelligent connectivity within electric vehicles",
     "contactmessage": "Get in touch with me to learn more",
-    "email": "benjaminlewis984@gmail.com ",
+    "email": "benjaminlewis984@gmail.com",
     "phone": "+1 916 616 8853",
     "address": {
-      "street": "595 John Muir Dr",
-      "city": "San Francisco",
+      "street": "Rebecca Lynn Way",
+      "city": "Santa Clara",
       "state": "CA",
-      "zip": "94132"
+      "zip": "95050"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://b-d63a06-lewis.netlify.app",
     "social": [
       {
         "name": "linkedin",
@@ -46,9 +45,21 @@
     ],
     "work": [
       {
+        "company": "SERES EV",
+        "title": "Software Engineer",
+        "years": "Feburary 2021 - Present",
+        "description": "Responsible for writing quality programs that are used for Intelligent Connectiving solutions on electric vehicles."
+      },
+      {
+        "company": "SERES EV",
+        "title": "Software Engineer Intern",
+        "years": "October 2020 - Feburary 2021",
+        "description": "Responsible for contributing to the human-machine interface. Creating Over-The-Air solutions for vehicle download and update services."
+      },
+      {
         "company": "Waterworks Aquatics",
         "title": "Swim Instructor",
-        "years": "April 2018 - Present",
+        "years": "April 2018 - October 2020",
         "description": "CPR Certified. Teach all levels from beginner to advanced"
       },
       {
@@ -75,7 +86,7 @@
       },
       {
         "name": "C++",
-        "level": "75%"
+        "level": "90%"
       },
       {
         "name": "Python",
@@ -83,11 +94,11 @@
       },
       {
         "name": "C",
-        "level": "70%"
+        "level": "85%"
       },
       {
-        "name": "MySQL",
-        "level": "70%"
+        "name": "Shell Scripts",
+        "level": "95%"
       }
     ]
   },
